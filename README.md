@@ -7,7 +7,6 @@ Como exemplo resolvi se utilizar do meu próprio site de portfólio no qual mons
 
 
 Host original: 
-
 http://minarketing.eibuscaqui.com.br
 
 Host Github pages:
