@@ -3,7 +3,7 @@ Soube que o github tem uma ferramenta que serve como uma espécie de host improv
 
 Exemplificando, cria-se uma página especifica e envia para o cliente verificar como ficou, simulando a navegação do projeto final. Normalmente faço isso upando os arquivos em serviços gratuitos e a dor de cabeça com o desempenho é inevitável. Se utilizando do próprio recurso no github pode ser interessante, dependendo do nível de complexidade do projeto, pois partimos da premissa de apenas css/html. 
 
-Como exemplo resolvi se utilizar do meu próprio site de portfólio no qual monstei na plataforma wordpress. Fiz a estratégia de transforma-lo em um único arquivo .index para esta ocasião de teste. Abaixo segue o link dos dois endereços servindo de comparativo. 
+Como exemplo resolvi se utilizar do meu próprio site de portfólio no qual montei na plataforma wordpress. Fiz a estratégia de transformá-lo em um único arquivo .index para esta ocasião de teste. Abaixo segue o link dos dois endereços servindo de comparativo. 
 
 
 Host original: 
