@@ -7,7 +7,7 @@ Como exemplo resolvi se utilizar do meu próprio site de portfólio no qual mont
 
 
 Host original: 
-http://minarketing.eibuscaqui.com.br
+https://www.minarketing.com.br
 
 Host Github pages:
 https://wesleymina.github.io/minarketing
